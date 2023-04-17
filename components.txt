@@ -1,0 +1,7 @@
+Computer Case,1,89.27
+Motherboard,1,215.45
+Power Supply,1,110.00
+SSD Hard Drive,1,227.60
+Memory DIMMs,2,87.99
+Processor with fan,1,321.00
+Video Card,1,469.23
